@@ -15,7 +15,7 @@
     "should": "*",
     "nconf": "*",
     "validator": "*",
-    "jquery": "*",
+    "jquery": "~1.6.3",
     "request-json": "*"
   },
   "devDependencies": {
